@@ -8,9 +8,9 @@
 
 <h4>Simple to use</h4>
 
-<h4>>Configured with hover effects</h4>
+<h4>Configured with hover effects</h4>
 
-<h4>>SASS design</h4>
+<h4>SASS design</h4>
 
 # 'GIF' of how the project works
 
